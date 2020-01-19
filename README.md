@@ -12,7 +12,7 @@ A very simple Movies webpage made with Flutter Web.
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-## ‼️ Disclaimer
+## ‼️ Disclaimer 
 
 This is just a simple project i made as my **second Flutter web project** for practice sake, took only a few hours so its not **perfect**
 
